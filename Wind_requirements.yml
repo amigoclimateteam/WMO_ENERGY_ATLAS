@@ -1,0 +1,26 @@
+name: wind_atlas_env
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - numpy
+  - pandas
+  - geopandas
+  - shapely
+  - matplotlib
+  - netcdf4
+  - dask
+  - os
+  - warnings
+  - scipy
+  - datetime
+  - dateutil
+  - shapely
+  - glob
+  - intake
+  - cartopy
+  - rioxarray
+  - cdsapi
+  - sklearn
+  - proplot
+  - rioxarray
