@@ -33,3 +33,20 @@ Apply cartographic conventions (boundaries, rivers, gridlines, colorbars).
 
 **Step 7 — Climate projections**  
 Extend the pipeline to **CMIP6** simulations (historical + future scenarios), compute deltas against the historical period, and apply them to ERA5/GloFAS baselines to assess future changes.
+
+---
+
+📂 *Notebooks are organized by atlas type (`solar/`, `wind/`, `hydro/`) and implement the methodology described above.*  
+
+---
+
+## Examples of output
+
+### Hydropower NRA output example  
+![Hydropower example](data/figures/tanzania_l5_hydro_annual.png)
+
+### Wind NRA output example  
+![Wind example](data/figures/cuba_wind_annual_present.png)
+
+### Solar NRA output example  
+![Solar example](data/figures/croatia_solar_annual_present.png)
