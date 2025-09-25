@@ -48,5 +48,5 @@ Extend the pipeline to **CMIP6** simulations (historical + future scenarios), co
 ### Wind NRA output example  
 ![Wind example](data/figures/cuba_wind_annual_present.png)
 
-### Solar NRA output example  
+### Solar NRA output example   
 ![Solar example](data/figures/croatia_solar_annual_present.png)
