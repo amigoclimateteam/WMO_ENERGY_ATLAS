@@ -23,7 +23,7 @@ Interpolate in-situ observations onto the fine grid using **Inverse Distance Wei
 
 **Step 5 — Atlas generation**  
 Merge downscaled fields with IDW maps using an uncertainty-weighted approach. Export outputs in **NetCDF** and **GeoTIFF** formats for analysis and GIS integration.  
-
+ 
 **Step 6 — Visualization**  
 Produce maps for:  
 - **Solar**: annual/monthly Global Horizontal Irradiance (GHI)  
